@@ -23,7 +23,7 @@ cdc-postgres-setup/
 
 1. Clone this repository:
 ```bash
-git clone <repository-url>
+git clone [<repository-url>](https://github.com/arifrhm/cdc-postgres-setup.git)
 cd cdc-postgres-setup
 ```
 
